@@ -4,9 +4,6 @@
   "description": "A simple ajax client with 'jquery-like' API",
   "main": "lib/ajax-client.js",
   "module": "src/index.js",
-  "exports": {
-    "import": "./src/index.js"
-  },
   "type": "module",
   "browserslist": [
     "since 2017-06"
